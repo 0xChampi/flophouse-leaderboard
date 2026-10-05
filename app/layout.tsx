@@ -4,7 +4,7 @@ import "@fontsource-variable/space-grotesk";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://flophouse-leaderboard.vercel.app"),
+  metadataBase: new URL("https://flophouse.vercel.app"),
   title: "Flophouse — The House Leaderboard",
   description: "The Flophouse community leaderboard. Explore Gamba race #20764, player standings, projected prizes, and the house rules. Hosted by Travszzz.",
   robots: { index: true, follow: true },

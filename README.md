@@ -1,6 +1,6 @@
 # Flophouse leaderboard
 
-[Live dashboard](https://flophouse-leaderboard.vercel.app) · [GitHub repository](https://github.com/0xChampi/flophouse-leaderboard)
+[Live dashboard](https://flophouse.vercel.app) · [GitHub repository](https://github.com/0xChampi/flophouse-leaderboard)
 
 A Flophouse community dashboard mapped from [Gamba leaderboard #20764](https://gamba.com/promotions/exclusive-leaderboards/20764). The source identifies the race as **Flophouse Lb!**, hosted by **Travszzz**, with eligibility code **flop**. Its source dates are September 14–October 14, 2026.
 
