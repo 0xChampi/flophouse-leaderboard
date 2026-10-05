@@ -1,0 +1,569 @@
+{
+  "data": {
+    "getRaceById": {
+      "id": "20764",
+      "prize_pool": 1000.185444546,
+      "start_date": "2026-09-14 00:00:00",
+      "end_date": "2026-10-14 23:59:59",
+      "race_name": "Flophouse Lb!",
+      "style": "23",
+      "competitors": [
+        {
+          "id": "212612",
+          "competitor_id": null,
+          "vip_level_name": "GOLD 2",
+          "display_name": "TheOddCall",
+          "total_wagered": 27738.50177555,
+          "winner_amount": null,
+          "position": 1,
+          "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/pfp-placeholder/18.png/pfp",
+          "__typename": "PrivateSponsorWagerRaceCompetitors"
+        },
+        {
+          "id": "83908",
+          "competitor_id": null,
+          "vip_level_name": "SILVER 2",
+          "display_name": "bubbi69",
+          "total_wagered": 9019.08449556,
+          "winner_amount": null,
+          "position": 2,
+          "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/1bb9790f-83e4-4783-44d7-28703d676f00/pfp",
+          "__typename": "PrivateSponsorWagerRaceCompetitors"
+        },
+        {
+          "id": "172798",
+          "competitor_id": null,
+          "vip_level_name": "GOLD 2",
+          "display_name": "Chaosthedee",
+          "total_wagered": 8381.43580041,
+          "winner_amount": null,
+          "position": 3,
+          "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/46debc7c-2ffc-4533-1705-409f2b4d6d00/pfp",
+          "__typename": "PrivateSponsorWagerRaceCompetitors"
+        },
+        {
+          "id": "172149",
+          "competitor_id": null,
+          "vip_level_name": "GOLD 2",
+          "display_name": "TARAJJJ7",
+          "total_wagered": 8087.40451425,
+          "winner_amount": null,
+          "position": 4,
+          "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/bc96f2d0-4665-4fd1-792c-4dd002392700/pfpreply",
+          "__typename": "PrivateSponsorWagerRaceCompetitors"
+        },
+        {
+          "id": "200334",
+          "competitor_id": null,
+          "vip_level_name": "GOLD 1",
+          "display_name": "TheCallBoss97",
+          "total_wagered": 4905.60034565,
+          "winner_amount": null,
+          "position": 5,
+          "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/37e2f7a5-93d8-4b37-70ca-d3b3b3949000/pfp",
+          "__typename": "PrivateSponsorWagerRaceCompetitors"
+        },
+        {
+          "id": "165020",
+          "competitor_id": null,
+          "vip_level_name": "PLATINUM 3",
+          "display_name": "Freeflyers",
+          "total_wagered": 4219.35344295,
+          "winner_amount": null,
+          "position": 6,
+          "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/e8d3db45-48f2-4292-27cf-6a356274b700/pfp",
+          "__typename": "PrivateSponsorWagerRaceCompetitors"
+        },
+        {
+          "id": "167010",
+          "competitor_id": null,
+          "vip_level_name": "PLATINUM 3",
+          "display_name": "Resecikkkk",
+          "total_wagered": 4075.0504639,
+          "winner_amount": null,
+          "position": 7,
+          "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/pfp-placeholder/4.png/pfp",
+          "__typename": "PrivateSponsorWagerRaceCompetitors"
+        },
+        {
+          "id": "193038",
+          "competitor_id": null,
+          "vip_level_name": "BRONZE 1",
+          "display_name": "printer",
+          "total_wagered": 3750.08111245,
+          "winner_amount": null,
+          "position": 8,
+          "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/pfp-placeholder/5.png/pfp",
+          "__typename": "PrivateSponsorWagerRaceCompetitors"
+        },
+        {
+          "id": "188958",
+          "competitor_id": null,
+          "vip_level_name": "PLATINUM 2",
+          "display_name": "vinny1221",
+          "total_wagered": 2953.08859004,
+          "winner_amount": null,
+          "position": 9,
+          "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/pfp-placeholder/7.png/pfp",
+          "__typename": "PrivateSponsorWagerRaceCompetitors"
+        },
+        {
+          "id": "168247",
+          "competitor_id": null,
+          "vip_level_name": "GOLD 3",
+          "display_name": "Jfaci",
+          "total_wagered": 2326.00124699,
+          "winner_amount": null,
+          "position": 10,
+          "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/1812450a-2e44-40cb-c826-47ca37954500/pfp",
+          "__typename": "PrivateSponsorWagerRaceCompetitors"
+        },
+        {
+          "id": "206310",
+          "competitor_id": null,
+          "vip_level_name": "BRONZE 2",
+          "display_name": "FloppyBoppy",
+          "total_wagered": 2142.63134675,
+          "winner_amount": null,
+          "position": 11,
+          "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/pfp-placeholder/4.png/pfp",
+          "__typename": "PrivateSponsorWagerRaceCompetitors"
+        },
+        {
+          "id": "ghost-c69f8377ac571d98",
+          "competitor_id": null,
+          "vip_level_name": "GOLD 3",
+          "display_name": "Hidden",
+          "total_wagered": 2090.48842928,
+          "winner_amount": null,
+          "position": 12,
+          "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/a126a16c-a7ce-4f1f-621d-06f039554100/pfpchat",
+          "__typename": "PrivateSponsorWagerRaceCompetitors"
+        },
+        {
+          "id": "168760",
+          "competitor_id": null,
+          "vip_level_name": "SILVER 3",
+          "display_name": "Sandbagnbitz",
+          "total_wagered": 2017.16719152,
+          "winner_amount": null,
+          "position": 13,
+          "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/5f5a0045-43ce-4ef6-a12e-6b2de974b500/pfpreply",
+          "__typename": "PrivateSponsorWagerRaceCompetitors"
+        },
+        {
+          "id": "192776",
+          "competitor_id": null,
+          "vip_level_name": "SILVER 1",
+          "display_name": "kmckenzie",
+          "total_wagered": 1424.46242539,
+          "winner_amount": null,
+          "position": 14,
+          "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/pfp-placeholder/14.png/pfp",
+          "__typename": "PrivateSponsorWagerRaceCompetitors"
+        },
+        {
+          "id": "5602",
+          "competitor_id": null,
+          "vip_level_name": "PLATINUM 1",
+          "display_name": "JustMe",
+          "total_wagered": 889.93970581,
+          "winner_amount": null,
+          "position": 15,
+          "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/45212c89-3eff-4a34-61b3-a0320b4c8b00/pfp",
+          "__typename": "PrivateSponsorWagerRaceCompetitors"
+        },
+        {
+          "id": "198302",
+          "competitor_id": null,
+          "vip_level_name": "BRONZE 1",
+          "display_name": "DolmaFlop",
+          "total_wagered": 553.06784809,
+          "winner_amount": null,
+          "position": 16,
+          "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/pfp-placeholder/18.png/pfp",
+          "__typename": "PrivateSponsorWagerRaceCompetitors"
+        },
+        {
+          "id": "187806",
+          "competitor_id": null,
+          "vip_level_name": "UNRANKED",
+          "display_name": "HeelPluga",
+          "total_wagered": 410.49581134,
+          "winner_amount": null,
+          "position": 17,
+          "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/pfp-placeholder/4.png/pfp",
+          "__typename": "PrivateSponsorWagerRaceCompetitors"
+        },
+        {
+          "id": "209558",
+          "competitor_id": null,
+          "vip_level_name": "BRONZE 1",
+          "display_name": "Ehigie08",
+          "total_wagered": 402.88050811,
+          "winner_amount": null,
+          "position": 18,
+          "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/pfp-placeholder/3.png/pfp",
+          "__typename": "PrivateSponsorWagerRaceCompetitors"
+        },
+        {
+          "id": "200863",
+          "competitor_id": null,
+          "vip_level_name": "UNRANKED",
+          "display_name": "Jonnyza",
+          "total_wagered": 306.73040318,
+          "winner_amount": null,
+          "position": 19,
+          "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/pfp-placeholder/24.png/pfp",
+          "__typename": "PrivateSponsorWagerRaceCompetitors"
+        },
+        {
+          "id": "6094",
+          "competitor_id": null,
+          "vip_level_name": "GOLD 2",
+          "display_name": "ZenaMuNaTase",
+          "total_wagered": 187.52730672,
+          "winner_amount": null,
+          "position": 20,
+          "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/aeef8846-7f90-425b-d7b3-6596dfc23400/pfp",
+          "__typename": "PrivateSponsorWagerRaceCompetitors"
+        },
+        {
+          "id": "201624",
+          "competitor_id": null,
+          "vip_level_name": "SILVER 3",
+          "display_name": "TFuLookinAtBro",
+          "total_wagered": 137.00351006,
+          "winner_amount": null,
+          "position": 21,
+          "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/pfp-placeholder/22.png/pfp",
+          "__typename": "PrivateSponsorWagerRaceCompetitors"
+        },
+        {
+          "id": "224674",
+          "competitor_id": null,
+          "vip_level_name": "UNRANKED",
+          "display_name": "Themoneymaker2",
+          "total_wagered": 109.90302517,
+          "winner_amount": null,
+          "position": 22,
+          "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/pfp-placeholder/7.png/pfp",
+          "__typename": "PrivateSponsorWagerRaceCompetitors"
+        },
+        {
+          "id": "177118",
+          "competitor_id": null,
+          "vip_level_name": "SILVER 1",
+          "display_name": "TVirus",
+          "total_wagered": 99.69402029,
+          "winner_amount": null,
+          "position": 23,
+          "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/pfp-placeholder/5.png/pfp",
+          "__typename": "PrivateSponsorWagerRaceCompetitors"
+        },
+        {
+          "id": "169581",
+          "competitor_id": null,
+          "vip_level_name": "UNRANKED",
+          "display_name": "Kundapade",
+          "total_wagered": 78.69367956,
+          "winner_amount": null,
+          "position": 24,
+          "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/pfp-placeholder/4.png/pfp",
+          "__typename": "PrivateSponsorWagerRaceCompetitors"
+        },
+        {
+          "id": "ghost-807f747985dfcb05",
+          "competitor_id": null,
+          "vip_level_name": "UNRANKED",
+          "display_name": "Hidden",
+          "total_wagered": 75.21802178,
+          "winner_amount": null,
+          "position": 25,
+          "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/85cdfd1b-21b5-4298-a1b5-564f34d64c00/pfpchat",
+          "__typename": "PrivateSponsorWagerRaceCompetitors"
+        },
+        {
+          "id": "200872",
+          "competitor_id": null,
+          "vip_level_name": "UNRANKED",
+          "display_name": "Doctorr",
+          "total_wagered": 74.34924959,
+          "winner_amount": null,
+          "position": 26,
+          "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/pfp-placeholder/3.png/pfp",
+          "__typename": "PrivateSponsorWagerRaceCompetitors"
+        },
+        {
+          "id": "216468",
+          "competitor_id": null,
+          "vip_level_name": "BRONZE 3",
+          "display_name": "Deeezzzx",
+          "total_wagered": 51.78390519,
+          "winner_amount": null,
+          "position": 27,
+          "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/75523e38-cc7e-418e-c5c4-88f21e146800/pfpreply",
+          "__typename": "PrivateSponsorWagerRaceCompetitors"
+        },
+        {
+          "id": "203695",
+          "competitor_id": null,
+          "vip_level_name": "UNRANKED",
+          "display_name": "hossein",
+          "total_wagered": 51.3061445,
+          "winner_amount": null,
+          "position": 28,
+          "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/2a00dab7-b696-4692-e24b-240ca2530f00/pfp",
+          "__typename": "PrivateSponsorWagerRaceCompetitors"
+        },
+        {
+          "id": "163595",
+          "competitor_id": null,
+          "vip_level_name": "BRONZE 2",
+          "display_name": "TaraHeart",
+          "total_wagered": 49.37672947,
+          "winner_amount": null,
+          "position": 29,
+          "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/pfp-placeholder/19.png/pfp",
+          "__typename": "PrivateSponsorWagerRaceCompetitors"
+        },
+        {
+          "id": "ghost-6caa5cbd84588c29",
+          "competitor_id": null,
+          "vip_level_name": "UNRANKED",
+          "display_name": "Hidden",
+          "total_wagered": 49.36616643,
+          "winner_amount": null,
+          "position": 30,
+          "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/pfp-placeholder/1.png/pfp",
+          "__typename": "PrivateSponsorWagerRaceCompetitors"
+        },
+        {
+          "id": "172415",
+          "competitor_id": null,
+          "vip_level_name": "UNRANKED",
+          "display_name": "Evnar",
+          "total_wagered": 45.60947635,
+          "winner_amount": null,
+          "position": 31,
+          "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/pfp-placeholder/6.png/pfp",
+          "__typename": "PrivateSponsorWagerRaceCompetitors"
+        },
+        {
+          "id": "163716",
+          "competitor_id": null,
+          "vip_level_name": "BRONZE 1",
+          "display_name": "mukhtar5",
+          "total_wagered": 43.67715167,
+          "winner_amount": null,
+          "position": 32,
+          "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/b70dbb33-2294-4c1e-42a2-2acb12b79900/pfp",
+          "__typename": "PrivateSponsorWagerRaceCompetitors"
+        },
+        {
+          "id": "ghost-af0e200afc54bc23",
+          "competitor_id": null,
+          "vip_level_name": "BRONZE 1",
+          "display_name": "Hidden",
+          "total_wagered": 36.7130898,
+          "winner_amount": null,
+          "position": 33,
+          "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/95bc1381-ff07-4fd2-2be1-37e82f8ec900/pfp",
+          "__typename": "PrivateSponsorWagerRaceCompetitors"
+        },
+        {
+          "id": "209682",
+          "competitor_id": null,
+          "vip_level_name": "UNRANKED",
+          "display_name": "hyperspace",
+          "total_wagered": 36.38932165,
+          "winner_amount": null,
+          "position": 34,
+          "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/pfp-placeholder/15.png/pfp",
+          "__typename": "PrivateSponsorWagerRaceCompetitors"
+        },
+        {
+          "id": "234060",
+          "competitor_id": null,
+          "vip_level_name": "UNRANKED",
+          "display_name": "isuckFlop",
+          "total_wagered": 35.89161296,
+          "winner_amount": null,
+          "position": 35,
+          "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/pfp-placeholder/13.png/pfp",
+          "__typename": "PrivateSponsorWagerRaceCompetitors"
+        },
+        {
+          "id": "199405",
+          "competitor_id": null,
+          "vip_level_name": "BRONZE 1",
+          "display_name": "NatDuck",
+          "total_wagered": 31.95162307,
+          "winner_amount": null,
+          "position": 36,
+          "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/4de839d5-c1bf-4b16-fc1d-223003fabe00/pfp",
+          "__typename": "PrivateSponsorWagerRaceCompetitors"
+        },
+        {
+          "id": "181662",
+          "competitor_id": null,
+          "vip_level_name": "UNRANKED",
+          "display_name": "Petroo",
+          "total_wagered": 27.26236779,
+          "winner_amount": null,
+          "position": 37,
+          "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/pfp-placeholder/1.png/pfp",
+          "__typename": "PrivateSponsorWagerRaceCompetitors"
+        },
+        {
+          "id": "223390",
+          "competitor_id": null,
+          "vip_level_name": "UNRANKED",
+          "display_name": "Jonshan",
+          "total_wagered": 21.24733722,
+          "winner_amount": null,
+          "position": 38,
+          "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/pfp-placeholder/4.png/pfp",
+          "__typename": "PrivateSponsorWagerRaceCompetitors"
+        },
+        {
+          "id": "90015",
+          "competitor_id": null,
+          "vip_level_name": "PLATINUM 1",
+          "display_name": "FatKidd",
+          "total_wagered": 15.72656452,
+          "winner_amount": null,
+          "position": 39,
+          "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/66b49df1-2bdc-47ee-d74a-05d731fb0200/pfpchat",
+          "__typename": "PrivateSponsorWagerRaceCompetitors"
+        }
+      ],
+      "current_competitor": null,
+      "sponsor": {
+        "id": "152451",
+        "username": "Travszzz",
+        "vip_level_name": "PLATINUM 2",
+        "display_name": "Travszzz",
+        "__typename": "User"
+      },
+      "currency": {
+        "id": "456",
+        "code": "USDT",
+        "__typename": "Currency"
+      },
+      "eligibility": [
+        {
+          "id": "12054",
+          "code": "flop",
+          "usage_count": 650,
+          "total_wagered": null,
+          "__typename": "SponsorCodes"
+        }
+      ],
+      "prize_distribution": [
+        {
+          "position": 1,
+          "percentage": 42.5,
+          "amount": 425.07881393204997,
+          "__typename": "RacePrizeDistribution"
+        },
+        {
+          "position": 2,
+          "percentage": 27.5,
+          "amount": 275.05099725015003,
+          "__typename": "RacePrizeDistribution"
+        },
+        {
+          "position": 3,
+          "percentage": 15,
+          "amount": 150.0278166819,
+          "__typename": "RacePrizeDistribution"
+        },
+        {
+          "position": 4,
+          "percentage": 5,
+          "amount": 50.0092722273,
+          "__typename": "RacePrizeDistribution"
+        },
+        {
+          "position": 5,
+          "percentage": 3,
+          "amount": 30.00556333638,
+          "__typename": "RacePrizeDistribution"
+        },
+        {
+          "position": 6,
+          "percentage": 2,
+          "amount": 20.00370889092,
+          "__typename": "RacePrizeDistribution"
+        },
+        {
+          "position": 7,
+          "percentage": 2,
+          "amount": 20.00370889092,
+          "__typename": "RacePrizeDistribution"
+        },
+        {
+          "position": 8,
+          "percentage": 1.5,
+          "amount": 15.00278166819,
+          "__typename": "RacePrizeDistribution"
+        },
+        {
+          "position": 9,
+          "percentage": 1,
+          "amount": 10.00185444546,
+          "__typename": "RacePrizeDistribution"
+        },
+        {
+          "position": 10,
+          "percentage": 0.5,
+          "amount": 5.00092722273,
+          "__typename": "RacePrizeDistribution"
+        }
+      ],
+      "wager_contribution_multipliers": {
+        "INHOUSE": 100,
+        "CASINO": 100,
+        "SPORTS": 100,
+        "__typename": "WagerContributionMultipliers"
+      },
+      "rtp_contribution": [
+        {
+          "range": [
+            0,
+            2
+          ],
+          "contribution": 10,
+          "__typename": "RtpContributionRange"
+        },
+        {
+          "range": [
+            2.01,
+            3
+          ],
+          "contribution": 50,
+          "__typename": "RtpContributionRange"
+        },
+        {
+          "range": [
+            3.01,
+            100
+          ],
+          "contribution": 100,
+          "__typename": "RtpContributionRange"
+        }
+      ],
+      "background": {
+        "id": "23",
+        "name": "Mythical Dragons",
+        "desktop_image_url": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/leaderboards/ChineseDragon/desktopdragon.png/bigpromobanner",
+        "mobile_left_image_url": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/leaderboards/ChineseDragon/leftdragon.png/background",
+        "mobile_right_image_url": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/leaderboards/ChineseDragon/rightdragon.png/background",
+        "mobile_background_image_url": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/leaderboards/ChineseDragon/dragonbg.png/background",
+        "__typename": "ExclusiveRaceBackground"
+      },
+      "__typename": "PrivateSponsorWagerRaces"
+    }
+  }
+}

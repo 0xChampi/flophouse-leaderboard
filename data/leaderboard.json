@@ -1,0 +1,396 @@
+{
+  "id": "20764",
+  "name": "Flophouse Lb!",
+  "sourceUrl": "https://gamba.com/promotions/exclusive-leaderboards/20764",
+  "capturedAt": "2026-10-05T05:30:15.227Z",
+  "startsAtSource": "2026-09-14 00:00:00",
+  "endsAtSource": "2026-10-14 23:59:59",
+  "endsAt": "2026-10-14T23:59:59Z",
+  "currency": "USDT",
+  "prizePool": 1000.185444546,
+  "host": "Travszzz",
+  "eligibility": "flop",
+  "players": [
+    {
+      "id": "212612",
+      "name": "TheOddCall",
+      "rank": 1,
+      "wagered": 27738.50177555,
+      "vip": "GOLD 2",
+      "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/pfp-placeholder/18.png/pfp"
+    },
+    {
+      "id": "83908",
+      "name": "bubbi69",
+      "rank": 2,
+      "wagered": 9019.08449556,
+      "vip": "SILVER 2",
+      "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/1bb9790f-83e4-4783-44d7-28703d676f00/pfp"
+    },
+    {
+      "id": "172798",
+      "name": "Chaosthedee",
+      "rank": 3,
+      "wagered": 8381.43580041,
+      "vip": "GOLD 2",
+      "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/46debc7c-2ffc-4533-1705-409f2b4d6d00/pfp"
+    },
+    {
+      "id": "172149",
+      "name": "TARAJJJ7",
+      "rank": 4,
+      "wagered": 8087.40451425,
+      "vip": "GOLD 2",
+      "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/bc96f2d0-4665-4fd1-792c-4dd002392700/pfpreply"
+    },
+    {
+      "id": "200334",
+      "name": "TheCallBoss97",
+      "rank": 5,
+      "wagered": 4905.60034565,
+      "vip": "GOLD 1",
+      "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/37e2f7a5-93d8-4b37-70ca-d3b3b3949000/pfp"
+    },
+    {
+      "id": "165020",
+      "name": "Freeflyers",
+      "rank": 6,
+      "wagered": 4219.35344295,
+      "vip": "PLATINUM 3",
+      "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/e8d3db45-48f2-4292-27cf-6a356274b700/pfp"
+    },
+    {
+      "id": "167010",
+      "name": "Resecikkkk",
+      "rank": 7,
+      "wagered": 4075.0504639,
+      "vip": "PLATINUM 3",
+      "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/pfp-placeholder/4.png/pfp"
+    },
+    {
+      "id": "193038",
+      "name": "printer",
+      "rank": 8,
+      "wagered": 3750.08111245,
+      "vip": "BRONZE 1",
+      "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/pfp-placeholder/5.png/pfp"
+    },
+    {
+      "id": "188958",
+      "name": "vinny1221",
+      "rank": 9,
+      "wagered": 2953.08859004,
+      "vip": "PLATINUM 2",
+      "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/pfp-placeholder/7.png/pfp"
+    },
+    {
+      "id": "168247",
+      "name": "Jfaci",
+      "rank": 10,
+      "wagered": 2326.00124699,
+      "vip": "GOLD 3",
+      "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/1812450a-2e44-40cb-c826-47ca37954500/pfp"
+    },
+    {
+      "id": "206310",
+      "name": "FloppyBoppy",
+      "rank": 11,
+      "wagered": 2142.63134675,
+      "vip": "BRONZE 2",
+      "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/pfp-placeholder/4.png/pfp"
+    },
+    {
+      "id": "ghost-c69f8377ac571d98",
+      "name": "Hidden",
+      "rank": 12,
+      "wagered": 2090.48842928,
+      "vip": "GOLD 3",
+      "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/a126a16c-a7ce-4f1f-621d-06f039554100/pfpchat"
+    },
+    {
+      "id": "168760",
+      "name": "Sandbagnbitz",
+      "rank": 13,
+      "wagered": 2017.16719152,
+      "vip": "SILVER 3",
+      "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/5f5a0045-43ce-4ef6-a12e-6b2de974b500/pfpreply"
+    },
+    {
+      "id": "192776",
+      "name": "kmckenzie",
+      "rank": 14,
+      "wagered": 1424.46242539,
+      "vip": "SILVER 1",
+      "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/pfp-placeholder/14.png/pfp"
+    },
+    {
+      "id": "5602",
+      "name": "JustMe",
+      "rank": 15,
+      "wagered": 889.93970581,
+      "vip": "PLATINUM 1",
+      "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/45212c89-3eff-4a34-61b3-a0320b4c8b00/pfp"
+    },
+    {
+      "id": "198302",
+      "name": "DolmaFlop",
+      "rank": 16,
+      "wagered": 553.06784809,
+      "vip": "BRONZE 1",
+      "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/pfp-placeholder/18.png/pfp"
+    },
+    {
+      "id": "187806",
+      "name": "HeelPluga",
+      "rank": 17,
+      "wagered": 410.49581134,
+      "vip": "UNRANKED",
+      "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/pfp-placeholder/4.png/pfp"
+    },
+    {
+      "id": "209558",
+      "name": "Ehigie08",
+      "rank": 18,
+      "wagered": 402.88050811,
+      "vip": "BRONZE 1",
+      "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/pfp-placeholder/3.png/pfp"
+    },
+    {
+      "id": "200863",
+      "name": "Jonnyza",
+      "rank": 19,
+      "wagered": 306.73040318,
+      "vip": "UNRANKED",
+      "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/pfp-placeholder/24.png/pfp"
+    },
+    {
+      "id": "6094",
+      "name": "ZenaMuNaTase",
+      "rank": 20,
+      "wagered": 187.52730672,
+      "vip": "GOLD 2",
+      "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/aeef8846-7f90-425b-d7b3-6596dfc23400/pfp"
+    },
+    {
+      "id": "201624",
+      "name": "TFuLookinAtBro",
+      "rank": 21,
+      "wagered": 137.00351006,
+      "vip": "SILVER 3",
+      "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/pfp-placeholder/22.png/pfp"
+    },
+    {
+      "id": "224674",
+      "name": "Themoneymaker2",
+      "rank": 22,
+      "wagered": 109.90302517,
+      "vip": "UNRANKED",
+      "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/pfp-placeholder/7.png/pfp"
+    },
+    {
+      "id": "177118",
+      "name": "TVirus",
+      "rank": 23,
+      "wagered": 99.69402029,
+      "vip": "SILVER 1",
+      "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/pfp-placeholder/5.png/pfp"
+    },
+    {
+      "id": "169581",
+      "name": "Kundapade",
+      "rank": 24,
+      "wagered": 78.69367956,
+      "vip": "UNRANKED",
+      "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/pfp-placeholder/4.png/pfp"
+    },
+    {
+      "id": "ghost-807f747985dfcb05",
+      "name": "Hidden",
+      "rank": 25,
+      "wagered": 75.21802178,
+      "vip": "UNRANKED",
+      "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/85cdfd1b-21b5-4298-a1b5-564f34d64c00/pfpchat"
+    },
+    {
+      "id": "200872",
+      "name": "Doctorr",
+      "rank": 26,
+      "wagered": 74.34924959,
+      "vip": "UNRANKED",
+      "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/pfp-placeholder/3.png/pfp"
+    },
+    {
+      "id": "216468",
+      "name": "Deeezzzx",
+      "rank": 27,
+      "wagered": 51.78390519,
+      "vip": "BRONZE 3",
+      "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/75523e38-cc7e-418e-c5c4-88f21e146800/pfpreply"
+    },
+    {
+      "id": "203695",
+      "name": "hossein",
+      "rank": 28,
+      "wagered": 51.3061445,
+      "vip": "UNRANKED",
+      "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/2a00dab7-b696-4692-e24b-240ca2530f00/pfp"
+    },
+    {
+      "id": "163595",
+      "name": "TaraHeart",
+      "rank": 29,
+      "wagered": 49.37672947,
+      "vip": "BRONZE 2",
+      "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/pfp-placeholder/19.png/pfp"
+    },
+    {
+      "id": "ghost-6caa5cbd84588c29",
+      "name": "Hidden",
+      "rank": 30,
+      "wagered": 49.36616643,
+      "vip": "UNRANKED",
+      "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/pfp-placeholder/1.png/pfp"
+    },
+    {
+      "id": "172415",
+      "name": "Evnar",
+      "rank": 31,
+      "wagered": 45.60947635,
+      "vip": "UNRANKED",
+      "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/pfp-placeholder/6.png/pfp"
+    },
+    {
+      "id": "163716",
+      "name": "mukhtar5",
+      "rank": 32,
+      "wagered": 43.67715167,
+      "vip": "BRONZE 1",
+      "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/b70dbb33-2294-4c1e-42a2-2acb12b79900/pfp"
+    },
+    {
+      "id": "ghost-af0e200afc54bc23",
+      "name": "Hidden",
+      "rank": 33,
+      "wagered": 36.7130898,
+      "vip": "BRONZE 1",
+      "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/95bc1381-ff07-4fd2-2be1-37e82f8ec900/pfp"
+    },
+    {
+      "id": "209682",
+      "name": "hyperspace",
+      "rank": 34,
+      "wagered": 36.38932165,
+      "vip": "UNRANKED",
+      "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/pfp-placeholder/15.png/pfp"
+    },
+    {
+      "id": "234060",
+      "name": "isuckFlop",
+      "rank": 35,
+      "wagered": 35.89161296,
+      "vip": "UNRANKED",
+      "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/pfp-placeholder/13.png/pfp"
+    },
+    {
+      "id": "199405",
+      "name": "NatDuck",
+      "rank": 36,
+      "wagered": 31.95162307,
+      "vip": "BRONZE 1",
+      "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/4de839d5-c1bf-4b16-fc1d-223003fabe00/pfp"
+    },
+    {
+      "id": "181662",
+      "name": "Petroo",
+      "rank": 37,
+      "wagered": 27.26236779,
+      "vip": "UNRANKED",
+      "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/pfp-placeholder/1.png/pfp"
+    },
+    {
+      "id": "223390",
+      "name": "Jonshan",
+      "rank": 38,
+      "wagered": 21.24733722,
+      "vip": "UNRANKED",
+      "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/pfp-placeholder/4.png/pfp"
+    },
+    {
+      "id": "90015",
+      "name": "FatKidd",
+      "rank": 39,
+      "wagered": 15.72656452,
+      "vip": "PLATINUM 1",
+      "avatar": "https://imagedelivery.net/ud0nKgC6_aGi3aA3QSI9OA/66b49df1-2bdc-47ee-d74a-05d731fb0200/pfpchat"
+    }
+  ],
+  "prizes": [
+    {
+      "rank": 1,
+      "percentage": 42.5,
+      "amount": 425.07881393204997
+    },
+    {
+      "rank": 2,
+      "percentage": 27.5,
+      "amount": 275.05099725015003
+    },
+    {
+      "rank": 3,
+      "percentage": 15,
+      "amount": 150.0278166819
+    },
+    {
+      "rank": 4,
+      "percentage": 5,
+      "amount": 50.0092722273
+    },
+    {
+      "rank": 5,
+      "percentage": 3,
+      "amount": 30.00556333638
+    },
+    {
+      "rank": 6,
+      "percentage": 2,
+      "amount": 20.00370889092
+    },
+    {
+      "rank": 7,
+      "percentage": 2,
+      "amount": 20.00370889092
+    },
+    {
+      "rank": 8,
+      "percentage": 1.5,
+      "amount": 15.00278166819
+    },
+    {
+      "rank": 9,
+      "percentage": 1,
+      "amount": 10.00185444546
+    },
+    {
+      "rank": 10,
+      "percentage": 0.5,
+      "amount": 5.00092722273
+    }
+  ],
+  "contributions": [
+    {
+      "min": 0,
+      "max": 2,
+      "percentage": 10
+    },
+    {
+      "min": 2.01,
+      "max": 3,
+      "percentage": 50
+    },
+    {
+      "min": 3.01,
+      "max": 100,
+      "percentage": 100
+    }
+  ]
+}

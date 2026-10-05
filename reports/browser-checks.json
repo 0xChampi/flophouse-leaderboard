@@ -1,0 +1,61 @@
+{
+  "url": "http://127.0.0.1:3247",
+  "checkedAt": "2026-10-05T05:32:29.499Z",
+  "results": [
+    {
+      "check": "initial desktop",
+      "players": 39,
+      "rows": 10
+    },
+    {
+      "check": "search, empty state, native dialog and Escape",
+      "passed": true
+    },
+    {
+      "check": "prize filter, pagination, all players and sorting",
+      "passed": true
+    },
+    {
+      "check": "CSV download, eligibility clipboard and sharing",
+      "passed": true
+    },
+    {
+      "check": "refresh API",
+      "mode": "snapshot",
+      "capturePreserved": true
+    },
+    {
+      "check": "responsive layout",
+      "width": 320,
+      "document": 320,
+      "viewport": 320,
+      "background": "rgb(16, 19, 28)",
+      "font": "\"Space Grotesk Variable\", \"Inter Variable\", sans-serif"
+    },
+    {
+      "check": "responsive layout",
+      "width": 390,
+      "document": 390,
+      "viewport": 390,
+      "background": "rgb(16, 19, 28)",
+      "font": "\"Space Grotesk Variable\", \"Inter Variable\", sans-serif"
+    },
+    {
+      "check": "responsive layout",
+      "width": 768,
+      "document": 768,
+      "viewport": 768,
+      "background": "rgb(16, 19, 28)",
+      "font": "\"Space Grotesk Variable\", \"Inter Variable\", sans-serif"
+    },
+    {
+      "check": "responsive layout",
+      "width": 1440,
+      "document": 1440,
+      "viewport": 1440,
+      "background": "rgb(16, 19, 28)",
+      "font": "\"Space Grotesk Variable\", \"Inter Variable\", sans-serif"
+    }
+  ],
+  "errors": []
+}

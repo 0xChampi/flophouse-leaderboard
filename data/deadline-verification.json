@@ -1,0 +1,21 @@
+{
+  "sourceUrl": "https://gamba.com/promotions/exclusive-leaderboards/20764",
+  "deadline": "2026-10-14T23:59:59Z",
+  "method": "Compared rendered source countdown against browser Date.now() in two browser timezones. Both agree to within one second.",
+  "observations": [
+    {
+      "timezone": "UTC",
+      "browser_now_ms": 1791177744143,
+      "timer": "Ends In\n9:18:37:35",
+      "inferred_source_deadline": "2026-10-14T23:59:59.143000+00:00",
+      "delta_from_utc_end_seconds": 0.143
+    },
+    {
+      "timezone": "America/New_York",
+      "browser_now_ms": 1791177748472,
+      "timer": "Ends In\n9:18:37:31",
+      "inferred_source_deadline": "2026-10-14T23:59:59.472000+00:00",
+      "delta_from_utc_end_seconds": 0.472
+    }
+  ]
+}
