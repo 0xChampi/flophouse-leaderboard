@@ -1,5 +1,7 @@
 # Flophouse leaderboard
 
+[Live dashboard](https://flophouse-leaderboard.vercel.app) · [GitHub repository](https://github.com/0xChampi/flophouse-leaderboard)
+
 A Flophouse community dashboard mapped from [Gamba leaderboard #20764](https://gamba.com/promotions/exclusive-leaderboards/20764). The source identifies the race as **Flophouse Lb!**, hosted by **Travszzz**, with eligibility code **flop**. Its source dates are September 14–October 14, 2026.
 
 The dashboard uses Gamba’s dark navy and mint green palette, actual public player names and avatars, qualifying wagers, prize distribution, and house-edge contribution bands. Community attribution uses the existing Trav / HyperThreat TV × Flophouse material; no private intake answers or unverified social links are published.
@@ -30,7 +32,7 @@ npm run typecheck
 npm run build
 ```
 
-Review and commit the data diff, then redeploy. Refresh is an explicit local command; the project has no automatic job schedule and never starts a game, purchases credit, or uses a paid image generation service. If Gamba denies the browser request, the previous capture is retained.
+Review and commit the data diff, then push to `main` for the connected Vercel deployment. Refresh is an explicit local command; the project has no automatic job schedule and never starts a game, purchases credit, or uses a paid image generation service. If Gamba denies the browser request, the previous capture is retained.
 
 Source date strings do not include a timezone. The absolute deadline was verified against Gamba’s rendered countdown in both UTC and America/New_York browser contexts: both resolve to October 14, 2026 at 23:59:59 UTC, within one second. The observations are recorded in `data/deadline-verification.json`. A changed source deadline will not inherit that verification; it displays a source date until verified again.
 
