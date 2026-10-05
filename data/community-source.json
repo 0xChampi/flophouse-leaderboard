@@ -1,0 +1,18 @@
+{
+  "verifiedAt": "2026-10-05T08:25:48.367Z",
+  "sourceUrl": "https://kick.com/flophouse/about",
+  "name": "Flophouse",
+  "host": "Travszzz",
+  "eligibilityCode": "FLOP",
+  "links": {
+    "kick": "https://kick.com/flophouse",
+    "x": "https://x.com/FlophouseHQ"
+  },
+  "asset": {
+    "file": "public/flophouse.avif",
+    "width": 512,
+    "height": 512,
+    "providedBy": "project owner"
+  },
+  "verification": "Public Kick channel uses the matching emblem. Its About page lists travszzz, Gamba code FLOP, and the FlophouseHQ X link."
+}

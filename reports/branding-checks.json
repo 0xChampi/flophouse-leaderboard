@@ -1,0 +1,33 @@
+{
+  "url": "http://127.0.0.1:3247/",
+  "logos": [
+    {
+      "src": "/flophouse.avif",
+      "loaded": true,
+      "width": 37,
+      "height": 37
+    },
+    {
+      "src": "/flophouse.avif",
+      "loaded": true,
+      "width": 0,
+      "height": 0
+    },
+    {
+      "src": "/flophouse.avif",
+      "loaded": true,
+      "width": 214,
+      "height": 214
+    },
+    {
+      "src": "/flophouse.avif",
+      "loaded": true,
+      "width": 70,
+      "height": 70
+    }
+  ],
+  "communityLinks": "verified",
+  "metadata": "verified",
+  "originalImageSha256": "04d5c1613dc9d5d9f8026c17225623b3eb475dcb0435b657da5ad9b8f9584ecd",
+  "capturedAt": "2026-10-05T08:28:04.707Z"
+}

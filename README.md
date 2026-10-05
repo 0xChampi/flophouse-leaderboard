@@ -6,6 +6,8 @@ A Flophouse community dashboard mapped from [Gamba leaderboard #20764](https://g
 
 The dashboard uses Gamba’s dark navy and mint green palette, actual public player names and avatars, qualifying wagers, prize distribution, and house-edge contribution bands. Community attribution uses the existing Trav / HyperThreat TV × Flophouse material; no private intake answers or unverified social links are published.
 
+Branding uses the supplied Flophouse gold and green `$FLOP` emblem, preserved as AVIF with a PNG copy for the site icon and share preview. [Flophouse’s public Kick About page](https://kick.com/flophouse/about) confirms the matching emblem, host Travszzz, Gamba code `FLOP`, and [FlophouseHQ on X](https://x.com/FlophouseHQ). The dashboard links to those community accounts. Source verification is recorded in `data/community-source.json`.
+
 ## Run
 
 Node 24 is used in production.
